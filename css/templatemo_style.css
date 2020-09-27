@@ -499,7 +499,7 @@ img {
 }
 .templatemo_morelink a{
 	float: left;
-	color: #5d9e30;
+	color: #fdc40a;
 	text-indent: 15px;
 }
 
@@ -582,7 +582,7 @@ and (max-width : 480px) {
 	#top-menu li a	{ padding: 0px;}
 	#top-menu li.active a {
     color: #ffffff;
-	background: #72b842;	
+	background: #fdc40a;	
 	}
 	.templatemo_col12	{
 		width: 100%;
@@ -654,7 +654,7 @@ and (max-width : 480px) {
 	}
 	#top-menu li.active a {
     color: #ffffff;
-	background: #72b842;
+	background: #fdc40a;
 	line-height: 40px;
 	}
 	
