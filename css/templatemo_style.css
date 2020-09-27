@@ -597,9 +597,9 @@ and (max-width : 480px) {
 	.templatemo_bottom span.right { width: 90%; float: left; margin: 10px;}
 }
 @media (max-width:600px){
-	.templatemo_caption {
+	/* .templatemo_caption {
 		display: none;
-	}
+	} */
 }
 @media(min-width:500px) and (max-width: 650px){
 	.hover-box {
