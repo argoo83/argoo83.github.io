@@ -124,13 +124,13 @@ img {
 }
 
 .btn-primary {
-	background-color: #72b842;
-	border-color: #5ea32e;
+	background-color: #fdc40a;
+	border-color: #fdc40a;
 }
 
 .btn-primary:hover {
-	background-color: #5aa625;
-	border-color: #5ea32e;
+	background-color: #fdc40a;
+	border-color: #fdc40a;
 }
 
 .templatemo_caption p { color: #ffffff; background: rgba(0, 0, 0, 0.32); padding: 10px; font-size: 12px; }
@@ -189,7 +189,7 @@ img {
 	vertical-align: middle;
 	text-align: center;
 	padding: 20px 30px;
-	background: #72b842;
+	background: #fdc40a;
 	border-radius: 5px;
 	font-size: 32px;
 	color: #ffffff;
@@ -202,7 +202,7 @@ img {
     width: 92%;
     height: 100%;
 	border-radius: 5px;
-    background: #72b842;
+    background: #fdc40a;
     visibility: hidden\0/;
     opacity: 0\0/;
     transition: all 0.25s ease-in-out;
@@ -294,7 +294,7 @@ img {
 }
 
 .templatemo_wrapperblogbox a.fa:hover {
-	background: #72b842;
+	background: #fdc40a;
 }
 
 .templatemo_wrapperblogbox .tooltip1, .templatemo_wrapperblogbox .tooltip2, .templatemo_wrapperblogbox .tooltip3, .templatemo_wrapperblogbox .tooltip4 {
@@ -306,7 +306,7 @@ img {
 
 .templatemo_wrapperblogbox .tooltip1:hover:after, .templatemo_wrapperblogbox .tooltip2:hover:after,
 .templatemo_wrapperblogbox .tooltip3:hover:after, .templatemo_wrapperblogbox .tooltip4:hover:after {
-    background: #72b842;
+    background: #fdc40a;
     top: 33px;
     color: #fff;
     content: attr(title);
@@ -410,7 +410,7 @@ img {
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
 }
-.templatemo_clientimage img:hover { border: 3px solid #69a541; }
+.templatemo_clientimage img:hover { border: 3px solid #fdc40a; }
 
 .templatemo_clientdes {
   position: absolute;
@@ -491,7 +491,7 @@ img {
 }
 .templatemo_footer ul li:before {
     content: "\002022 ";
-    color: #72b842; 
+    color: #fdc40a; 
 	font-size: 2.5em;
     vertical-align: middle;
 	line-height: 30px;
